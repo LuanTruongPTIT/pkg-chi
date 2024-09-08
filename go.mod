@@ -1,4 +1,4 @@
-module github.com/LuanTruongPTIT/go-slack/pkg-chi
+module github.com/LuanTruongPTIT/pkg-chi
 
 go 1.23.0
 
